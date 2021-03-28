@@ -1,6 +1,6 @@
 jogo vai ter:
 
-*Um garoto
+*Uma garota
 *combate
 *mostros
 *aventura
@@ -9,9 +9,9 @@ jogo vai ter:
 *puzzle
 *dialogo
 
-A *historia* de um jovem garoto que busca descobrir seu nome, e para concluir seu objetivo ele se começa uma *aventura* *combatendo* diversos *monstros*, e passando por varios *puzzles*.
+A *historia* de um jovem garoto que busca descobrir seu nome, e para concluir seu objetivo ele se comeÃ§a uma *aventura* *combatendo* diversos *monstros*, e passando por varios *puzzles*.
 
-inspiraçoe:
+inspiraÃ§oe:
 *lol
 *stardew valley
 *brawl stars
