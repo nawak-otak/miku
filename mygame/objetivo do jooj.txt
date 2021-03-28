@@ -9,10 +9,10 @@ jogo vai ter:
 *puzzle
 *dialogo
 
-A *historia* de um jovem garoto que busca descobrir seu nome, e para concluir seu objetivo ele se começa uma *aventura* *combatendo* diversos *monstros*, e passando por varios *puzzles*.
+A *historia* de uma jovem garoto que busca descobrir seu nome, e para concluir seu objetivo ela começa uma *aventura* *combatendo* diversos *monstros*, e passando por varios *puzzles*.
 
 inspiraçoe:
-*lol
 *stardew valley
-*brawl stars
-*minecraft
+*undertale
+*terraria
+
